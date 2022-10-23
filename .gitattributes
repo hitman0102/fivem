@@ -3,12 +3,7 @@
 # helpers for GH language stats
 *.h linguist-language=C++
 
-**/vendor/** linguist-vendored
-code/tools/build/json.lua linguist-vendored
-data/shared/citizen/scripting/lua/MessagePack.lua linguist-vendored
-data/shared/citizen/scripting/lua/deferred.lua linguist-vendored
-data/shared/citizen/scripting/lua/graph.lua linguist-vendored
-data/shared/citizen/scripting/lua/json.lua linguist-vendored
+ored
 
 code/client/clrref/System.Drawing.cs linguist-vendored
 code/components/ros-patches-five/include/EntitlementTables_*.h linguist-vendored
